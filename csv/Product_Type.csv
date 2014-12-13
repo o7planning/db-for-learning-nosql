@@ -1,4 +1,4 @@
-﻿"   ","PRODUCT_TYPE_CD","NAME"
-"1","ACCOUNT","Customer Accounts"
-"2","LOAN","Individual and Business Loans"
-"3","INSURANCE","Insurance Offerings"
+﻿"PRODUCT_TYPE_CD","NAME"
+"ACCOUNT","Customer Accounts"
+"LOAN","Individual and Business Loans"
+"INSURANCE","Insurance Offerings"
